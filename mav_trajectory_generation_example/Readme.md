@@ -15,16 +15,15 @@ The following things are launched:
 After starting the launch file, wait for the console to clear and show this message:
 <img src="mav_trajectory_generation_example/img/console.png" width="200">
 ![console](https://github.com/StevenHong/mav_trajectory_generation/blob/master/mav_trajectory_generation_example/img/console.png)
-![console](https://raw.githubusercontent.com/ethz-asl/mav_trajectory_generation/feature/example_planner/mav_trajectory_generation_example/img/console.png)
 
 
 Once you press enter in that console, the trajectory is generated and sent to the controller. You should now see the UAV move in Gazebo. Simultaenously, RVIZ should display the planned trajectory:
-![rviz](https://raw.githubusercontent.com/ethz-asl/mav_trajectory_generation/feature/example_planner/mav_trajectory_generation_example/img/traject_rviz.png)
+![rviz](https://github.com/StevenHong/mav_trajectory_generation/blob/master/mav_trajectory_generation_example/img/traject_rviz.png)
 
 
 # Node Graph
 The following image visualizes the node graph of the simulation:
-![nodes](https://raw.githubusercontent.com/ethz-asl/mav_trajectory_generation/feature/example_planner/mav_trajectory_generation_example/img/nodes.png)
+![nodes](https://github.com/StevenHong/mav_trajectory_generation/blob/master/mav_trajectory_generation_example/img/nodes.png)
 
 
 
