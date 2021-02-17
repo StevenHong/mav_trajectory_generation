@@ -14,6 +14,7 @@ The following things are launched:
 
 After starting the launch file, wait for the console to clear and show this message:
 <img src="mav_trajectory_generation_example/img/console.png" width="200">
+![console](https://github.com/StevenHong/mav_trajectory_generation/blob/master/mav_trajectory_generation_example/img/console.png)
 ![console](https://raw.githubusercontent.com/ethz-asl/mav_trajectory_generation/feature/example_planner/mav_trajectory_generation_example/img/console.png)
 
 
