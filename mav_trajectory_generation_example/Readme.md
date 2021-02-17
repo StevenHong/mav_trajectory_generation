@@ -13,7 +13,7 @@ The following things are launched:
 * RVIZ, that visualizes the trajectory markers published by the generator.
 
 After starting the launch file, wait for the console to clear and show this message:
-<img src="./mav_trajectory_generation_example/img/console.png" width="200">
+<img src="/mav_trajectory_generation/mav_trajectory_generation_example/img/console.png" width="200">
 ![console](https://raw.githubusercontent.com/ethz-asl/mav_trajectory_generation/feature/example_planner/mav_trajectory_generation_example/img/console.png)
 
 
